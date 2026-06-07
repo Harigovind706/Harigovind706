@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm A Harigovind, i am currently pursuing Msc Computer Science(Data Analytics) from Rajagiri College Of Social Sciences, Kalamassery.</div>  
+### <div align="center">I'm A Harigovind, .</div>  
   
 
 - 🌱 I’m currently learning R and Python  
